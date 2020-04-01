@@ -7,9 +7,10 @@
 ```markdown
 .  
 ├── README.md
-├── NLP_data_test.ipynb  // Code
-├── stop_words.txt       //
-└── test.ipynb           //
+├── stop_words.txt
+├── NLP_data_test.ipynb         // Initial model test @Kai Liang
+├── test.ipynb                  // Initial model test @Mingyuan Zhu
+└── data_preprocessing.ipynb    // Code for data preprocessing
 ```
 
 ### Notice
@@ -30,6 +31,7 @@ At current stage, we foucuse on matching **Tier 1** job tiles.
   - [ ] Remove non-engllish words
   - [ ] Correct misspelled words
   - [ ] Stemming
+  - [ ] Lemmatization
 - [ ] Model Building
   - [ ] TensorFlow
   - [ ] PyTorch
