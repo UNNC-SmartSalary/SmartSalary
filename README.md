@@ -27,7 +27,7 @@ At current stage, we foucuse on matching **Tier 1** job tiles.
 
 ### Progress
 
-- [ ] Data Cleaning
+- [ ] Data Cleaning [Notebook](data_preprocessing.ipynb)
   - [ ] Remove non-engllish words
   - [ ] Correct misspelled words
   - [ ] Stemming
