@@ -28,9 +28,11 @@ At current stage, we foucuse on matching **Tier 1** job tiles.
 ### Progress
 
 - [ ] Data Cleaning [Notebook](data_preprocessing.ipynb)
-  - [ ] Remove non-engllish words
+  - [x] Keep pure words (with only english letter)
+  - [ ] Remove non-engllish words (spell check)
   - [ ] Correct misspelled words
-  - [ ] Stemming
+  - [x] Remove stop words
+  - [x] Stemming
   - [ ] Lemmatization
 - [ ] Model Building
   - [ ] TensorFlow
