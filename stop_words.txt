@@ -315,6 +315,8 @@ how
 howbeit
 however
 hundred
+http
+https
 i
 i'd
 i'll
@@ -785,6 +787,7 @@ using
 usually
 uucp
 v
+ve
 value
 various
 very
@@ -885,6 +888,7 @@ youre
 yours
 yourself
 yourselves
+youtube
 z
 zero
 zt
